@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
 <h3 align="center">A passionate fullstack developer from France specialised in React Native</h3>
-<p>My main passion is building mobile apps with React Native and everything related to quality and testing. I'm an external maintainer of [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-<p>I love to try out new technologies. I had a lot of fun building small apps and games in Flutter, Elixir and Svelte</p>
+
+My main passion is building mobile apps with React Native and everything related to quality and testing. I'm an external maintainer of [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+
+I love to try out new technologies. I had a lot of fun building small apps and games in Flutter, Elixir and Svelte
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MattAgn&show_icons=true&locale=en&layout=compact" alt="MattAgn" /></p>
 
